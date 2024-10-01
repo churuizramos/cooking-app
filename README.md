@@ -1,6 +1,6 @@
 # cooking-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the project repo for the group project for our intro to database course. The project will be a web application using an SQL database to access, create, and share recipes.
 
 ## Recommended IDE Setup
 
